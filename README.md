@@ -114,6 +114,3 @@ Based on the analysis, Cyclistic can increase annual memberships by:
    - Focus on recreational and tourist-heavy areas for membership campaigns.  
    - Place advertisements or QR code offers at popular casual start stations to capture new members.  
 
----
-
-## Repository Structure
