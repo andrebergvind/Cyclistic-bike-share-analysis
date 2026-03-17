@@ -1,6 +1,6 @@
 # Cyclistic-bike-share-analysis
 Data analysis project exploring behavioral differences between casual riders and members using SQL (BigQuery) and Tableau, with insights to support customer conversion strategies.
-![Alt Text](Cylistic.Logo.png)
+![Cylistic Logo](images/Cylistic.Logo.png)
 
 ## Project Overview
 
