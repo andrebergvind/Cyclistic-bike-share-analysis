@@ -13,7 +13,7 @@ The director of marketing at Cyclistic believes the company’s future growth de
 
 ## Data Sources
 
-The analysis uses the Cyclistic bike share dataset, which includes 12 months of ride data. Key fields include:
+The analysis uses the Cyclistic bike share dataset, which includes 12 months of ride data ranging from July 2024 to June 2025. Key fields include:
 
 - `ride_id`: Unique identifier for each ride  
 - `rideable_type`: Type of bike (classic_bike, electric_bike, electric_scooter)  
