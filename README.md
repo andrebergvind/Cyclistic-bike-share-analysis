@@ -1,5 +1,6 @@
 # Cyclistic-bike-share-analysis
 Data analysis project exploring behavioral differences between casual riders and members using SQL (BigQuery) and Tableau, with insights to support customer conversion strategies.
+In this project, I assume the role of a Junior Data Analyst on the marketing analytics team at Cyclistic, a bike-share company based in Chicago.
 
 ## Project Overview
 
@@ -90,11 +91,11 @@ The Tableau dashboard provides professional, interactive visualizations includin
 
 ---
 
-## Key Findings
+## Key Insights
 
-1. Members are consistent riders who use bikes for commuting; casual riders are occasional and leisure-focused.  
-2. Casual rides are longer on average, but happen less frequently.  
-3. Casual users mostly start around recreational areas, suggesting a behavioral difference that could be targeted for membership marketing.  
+1. Analysis shows casual riders tend to take longer trips compared to members and are more active on Saturdays and Sundays
+2. Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
+3. Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
 
 ---
 
@@ -102,15 +103,15 @@ The Tableau dashboard provides professional, interactive visualizations includin
 
 Based on the analysis, Cyclistic can increase annual memberships by:
 
-1. **Target Marketing by Ride Behavior**
-   - Identify casual users with frequent weekend usage or long-duration rides.  
-   - Offer targeted promotions highlighting the benefits of annual membership for leisure rides.
+1. **Offer a Variety of Membership Types**
+   - Target tourists and other leisure riders promoting weekend or week memberships 
+   - Introduce flexible membership options to appeal to different rider segments, such as weekend-only passes, 1-week tourist memberships, or short-term trial memberships
 
-2. **Offer a Variety of Membership Types**
-   - Target tourists promoting weekend or week memberships.  
-   - Target locals promoting shorter, seasonal memberships.
+2. **Target Marketing by Ride Behavior**
+   - Identify casual users with frequent weekend usage or long-duration rides
+   - Tailor messaging to highlight benefits that resonate with these behaviors, for example, “Unlimited weekend rides with a membership”
 
 3. **Localized Engagement**
-   - Focus on recreational and tourist-heavy areas for membership campaigns.  
-   - Place advertisements or QR code offers at popular casual start stations to capture new members.  
+   - Focus on recreational and tourist-heavy areas for membership campaigns
+   - Place advertisements or QR code offers at popular casual start stations to capture new members 
 
