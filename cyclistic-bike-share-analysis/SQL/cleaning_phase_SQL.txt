@@ -5,9 +5,8 @@
 -- Step 1: Create Cleaned Dataset
 -- Purpose: Remove invalid records and prepare data for analysis
 
--- I created a new cleaned table by filtering out invalid trips and 
--- selecting only relevant fields for analysis. This ensures that 
--- downstream insights are based on accurate and reliable data.
+-- I created a new cleaned table by filtering out invalid trips and selecting only relevant fields for analysis. 
+-- This ensures that downstream insights are based on accurate and reliable data.
 
 CREATE OR REPLACE TABLE `driven-realm-460621-r2.cyclistic_project.cleaned_tripdata` AS
 SELECT
