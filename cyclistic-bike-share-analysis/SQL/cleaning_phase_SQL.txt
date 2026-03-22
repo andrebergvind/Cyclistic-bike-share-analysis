@@ -40,26 +40,22 @@ WHERE ended_at > started_at
 
 -- -----------------------------------------------------
 
--- Step 2: Handling Missing Station Data
+-- Justification: Handling Missing Station Data
 -- Purpose: Preserve data integrity while avoiding bias
 
--- I considered removing records with NULL values in station-related fields 
--- (start_station_name, end_station_name). However, a significant portion of 
--- electric bike and scooter rides do not include station information.
+-- I considered removing records with NULL values in station-related fields (start_station_name, end_station_name). However, a significant portion of electric bike and scooter rides do not include station information.
 
--- Removing these rows would disproportionately exclude certain ride types 
--- and introduce bias into the analysis. Therefore, these records were retained.
+-- Removing these rows would disproportionately exclude certain ride types and introduce bias into the analysis. Therefore, these records were retained.
 
--- Instead, NULL station values were handled at the visualization stage 
--- (e.g., excluded in Tableau when analyzing most popular stations).
+-- Instead, NULL station values were handled at the visualization stage and excluded in Tableau when analyzing most popular stations.
 
 
 -- -----------------------------------------------------
 
--- Step 3: Feature Engineering
+-- Justification: Feature Engineering
 -- Purpose: Enhance dataset for analysis and visualization
 
--- Additional columns were created to simplify time-based analysis:
+-- Additional columns were created to simplify time-based analysis: 
 -- - ride_month → enables monthly trend analysis
 -- - ride_weekday → supports weekday vs weekend comparisons
 -- - start_time / end_time → enables hourly usage analysis
