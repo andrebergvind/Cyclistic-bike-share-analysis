@@ -5,9 +5,7 @@
 -- Step 1: Inspect Dataset Structure
 -- Purpose: Verify column data types and nullability
 
--- I began by inspecting the schema of the consolidated dataset to ensure 
--- that all columns were stored in appropriate formats and to identify 
--- any fields that might require type conversion or special handling.
+-- I began by inspecting the schema of the consolidated dataset to ensure that all columns were stored in appropriate formats and to identify if any fields might require type conversion or special handling.
 
 SELECT 
   column_name,
@@ -22,14 +20,12 @@ WHERE table_name = 'full_year_tripdata';
 -- Step 2: Validate Rideable Types
 -- Purpose: Confirm that rideable_type values align with expected categories
 
--- I explored the distinct ride types to ensure consistency with Cyclistic’s offerings 
--- and to verify that no unexpected categories were present.
+-- I explored the distinct ride types to ensure consistency with Cyclistic’s offerings and to verify that no unexpected categories were present.
 
 SELECT DISTINCT rideable_type
 FROM `driven-realm-460621-r2.cyclistic_project.full_year_tripdata`;
 
--- Result: Only the expected categories were present:
--- classic_bike, electric_bike, electric_scooter
+-- Result: Only the expected categories were present: classic_bike, electric_bike, electric_scooter
 
 
 -- -----------------------------------------------------
@@ -37,8 +33,7 @@ FROM `driven-realm-460621-r2.cyclistic_project.full_year_tripdata`;
 -- Step 3: Validate User Segmentation
 -- Purpose: Confirm member vs casual classification
 
--- I checked the distinct values in the member_casual column to ensure 
--- proper segmentation between casual riders and annual members.
+-- I checked the distinct values in the member_casual column to ensure proper segmentation between casual riders and annual members.
 
 SELECT DISTINCT member_casual
 FROM `driven-realm-460621-r2.cyclistic_project.full_year_tripdata`;
@@ -86,8 +81,7 @@ ORDER BY count DESC;
 -- Step 6: Check for Missing Values
 -- Purpose: Identify null values across key fields
 
--- This step helps assess data completeness and identify 
--- columns that may require cleaning or exclusion.
+-- This step helps assess data completeness and identify columns that may require cleaning or exclusion.
 
 SELECT
   COUNTIF(ride_id IS NULL) AS missing_ride_id,
