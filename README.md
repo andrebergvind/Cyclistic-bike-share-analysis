@@ -87,7 +87,7 @@ Provide incentives such as discounted first-year memberships and free trial peri
 
  🚀 **Additional Recommendation Focusing On Tourists**
 
-As a supplement to only aim for an increased membership conversion, Cyclistic has a strong possibility of increasing revenue by targeting tourists. In order to do so, they can:
+As a supplement to only aim for an increased annual membership conversion, Cyclistic has a strong possibility of increasing revenue by targeting tourists.
 
 4. **Offer a variety of membership types**
 
