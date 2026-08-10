@@ -54,7 +54,7 @@ The full process and justifications can be found here: [Cleaning Queries](./cycl
 
 1. **Casual riders are highly influenced by seasonality and leisure oriented usage**
 
-Casual riders shows significantly higher increase in activity during summer months and weekends compared to annual members. This outcome suggests that many casual users primarily rely on the service for recreational and occasional travel rather than daily commuting.
+Casual riders show significantly higher increase in activity during weekends and spring months, expanding over the summer, compared to annual members. This outcome suggests that many casual users primarily rely on the service for recreational and occasional travel rather than daily commuting.
 
 2. **Casual riders tend to take longer and more flexible trips**
 
@@ -62,25 +62,26 @@ Compared to annual members, casual riders recorded substantially longer ride dur
 
 3. **Casual riders are strongly connected to recreational and tourist-heavy areas**
 
-Station usage patterns revealed that casual riders are more commonly associated with parks, waterfronts, and tourist-heavy locations, unlike annual members who primarily travel between business and transportation-centered areas.
-
+Station usage patterns reveal that casual riders more frequently start their trips downtown, near parks, waterfronts, and tourist-heavy locations. Annual members on the other hand, primarily initiate their trips in the centre in and around business-heavy areas.
 
 ## ✅ Recommendations
   
 
 1. **Promote the long-term value of annual memberships during peak casual rider seasons**
 
-Launch targeted March to September, and weekend campaigns, the periods casual riders showcase highest increase in in use of the service.
-Emphasize how frequent casual riders could reduce overall ride costs and gain additional benefits by switching to annual memberships. For example how a one tim payment provides accessibility to bikes without having to worry about unlocking fees.
+Launch targeted March to August and weekend campaigns, the periods casual riders showcase highest increase in use of the service.
+Emphasise how frequent casual riders could reduce overall ride costs and gain additional benefits by switching to annual memberships. For example how a one time payment provides accessibility to bikes without having to worry about unlocking fees and prolonged trip durations.
 
-2. **Offer limited-time incentives encouraging casual riders to transition into annual members**
+2. **Target casual riders directly at high-traffic recreational stations**
 
-Provide incentives such as discounted first-year memberships and free trial periods for casual riders with high ride frequency or long-duration trips to lower the barrier toward membership conversion. The casual riders may need more incentives than just overall lower costs. By providing a trial or a discount, particularly during peaking period, they might be more susceptible and therefore commit.
+In order to most effectively reach the targeted segment, location-based marketing initiatives could serve beneficial. A focus should therefore be put on marketing the service in and around parks, waterfronts, and tourist hotspots, where casual riders most commonly initiate their rides. The primary benefit of this approach is that targeting customers in close proximity to when they begin their trips ensures the service remains top of mind.
 
-3. **Target casual riders directly at high-traffic recreational stations**
+Potential marketing initiatives include placing digital billboards and posters at key stations, forming promotional partnerships with cafes and restaurants downtown, and utilising geo-fenced mobile app notifications that are triggered when entering the app.
 
-In order to most effectively reach the targeted segment, we should implement location-based marketing at parks, waterfronts, and tourist-heavy stations. These are areas most commonly recorded for ride initiation, and may serve as the most efficient way to reach our target audience.
-Digital billboards and geo-fenced mobile app notifications could serve as efficient means to reach the targets. By leveraging the app, every time they open it to connect, a pop up could appear with an offer they can't refuse.
+3. **Offer limited-time incentives encouraging casual riders to transition into annual members**
+
+Provide incentives such as discounted first-year memberships and free trial periods for casual riders with high ride frequency or long-duration trips to lower the barrier toward membership conversion. The casual riders may need more incentives than just overall lower costs. By providing a trial or a discount, particularly during peaking period, non-members might be more susceptible and thereby commit to the service.
+
 
  ---
 
@@ -88,7 +89,10 @@ Digital billboards and geo-fenced mobile app notifications could serve as effici
 
 As a supplement to only aim for an increased membership conversion, Cyclistic has a strong possibility of increasing revenue by targeting tourists. In order to do so, they can:
 
-4. **Offer a Variety of Membership Types**
+4. **Offer a variety of membership types**
 
 Introduce flexible membership options to appeal to the tourist rider segment, such as weekend-only passes and a 1-week tourist membership.
-Although it does not fully agree with the main purpose of this analysis, it certainly could drive additional revenue and increase customer loyalty with the company and in that way support a stable long term growth.
+Although it does not fully agree with the main business goal, insights derived from the analysis suggest that the casual riders segment is partly composed of short-time visitors, which are less likely to subscribe for a full year service.
+
+This initiative could therefore contribute to the incremental revenue collected from customers otherwise not accounted for. Additionally, it could serve as a method to create future relationships and an effective entry point into the membership ecosystem if the company chooses to expand to other locations, thereby supporting long-term growth. 
+
